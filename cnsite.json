@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -3398,7 +3397,6 @@
         "xiaoe-tech.com",
         "xiaogouh5.com",
         "xiaohongshu.com",
-        "xiaoheihe.cn",
         "xiaojukeji.com",
         "xiaoka.tv",
         "xiaokaxiu.com",
@@ -3506,6 +3504,7 @@
         "yillionbank.com",
         "yingjia360.com",
         "yingjiesheng.com",
+        "yingxiong.com",
         "yingjiesheng.net",
         "yinhang123.net",
         "yinxiang.com",
